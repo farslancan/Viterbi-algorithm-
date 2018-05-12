@@ -1,0 +1,14 @@
+Insert(1): Tüm Olasılıklar:1/25  Matchten Gelme:0  Insertten Gelme:0  Deleteden Gelme:0
+Insert(2): Tüm Olasılıklar:1/25  Matchten Gelme:0  Insertten Gelme:0  Deleteden Gelme:0
+Insert(3): Tüm Olasılıklar:1/25  Matchten Gelme:0  Insertten Gelme:0  Deleteden Gelme:0
+Insert(4): Tüm Olasılıklar:1/25  Matchten Gelme:0  Insertten Gelme:0  Deleteden Gelme:0
+Insert(5): Tüm Olasılıklar:1/25  Matchten Gelme:0  Insertten Gelme:0  Deleteden Gelme:0
+Insert(6): Tüm Olasılıklar:1/25  Matchten Gelme:0  Insertten Gelme:0  Deleteden Gelme:0
+Insert(7): Tüm Olasılıklar:1/25  Matchten Gelme:0  Insertten Gelme:0  Deleteden Gelme:0
+Insert(8): Tüm Olasılıklar:1/25  Matchten Gelme:0  Insertten Gelme:0  Deleteden Gelme:0
+Insert(9): Tüm Olasılıklar:1/25  Matchten Gelme:0  Insertten Gelme:0  Deleteden Gelme:0
+Insert(10): Tüm Olasılıklar:1/25  Matchten Gelme:0  Insertten Gelme:0  Deleteden Gelme:0
+Insert(11): Tüm Olasılıklar:1/25  Matchten Gelme:0  Insertten Gelme:0  Deleteden Gelme:0
+Insert(12): Tüm Olasılıklar:1/25  Matchten Gelme: 3/6  Insertten Gelme:0  Deleteden Gelme:0
+Insert(13): Tüm Olasılıklar:1/25  Matchten Gelme:0  Insertten Gelme:0  Deleteden Gelme:0
+Insert(14): Tüm Olasılıklar:1/25  Matchten Gelme:0  Insertten Gelme:0  Deleteden Gelme:0

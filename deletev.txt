@@ -1,0 +1,14 @@
+Delete(1):   Matchten Gelme: 3/8  Insertten Gelme:0  Deleteden Gelme:0
+Delete(2):   Matchten Gelme: 1/5  Insertten Gelme:0  Delete Gelme: 1/3
+Delete(3):   Matchten Gelme:0  Insertten Gelme:0  Delete Gelme: 2/2
+Delete(4):   Matchten Gelme:0  Insertten Gelme:0  Delete Gelme: 2/2
+Delete(5):   Matchten Gelme: 1/6  Insertten Gelme:0  Delete Gelme: 2/2
+Delete(6):   Matchten Gelme:0  Insertten Gelme:0  Delete Gelme: 2/3
+Delete(7):   Matchten Gelme:0  Insertten Gelme:0  Delete Gelme: 1/2
+Delete(8):   Matchten Gelme:0  Insertten Gelme:0  Delete Gelme: 1/1
+Delete(9):   Matchten Gelme:0  Insertten Gelme:0  Delete Gelme: 1/1
+Delete(10):   Matchten Gelme: 1/7  Insertten Gelme:0  Deleteden Gelme:0
+Delete(11):   Matchten Gelme: 1/7  Insertten Gelme:0  Delete Gelme: 1/1
+Delete(12):   Matchten Gelme: 1/6  Insertten Gelme:0  Delete Gelme: 1/2
+Delete(13):   Matchten Gelme: 2/6  Insertten Gelme:0  Deleteden Gelme:0
+Delete(14):   Matchten Gelme: 1/6  Insertten Gelme:0  Delete Gelme: 2/2
